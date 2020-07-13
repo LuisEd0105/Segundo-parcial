@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\sistema de votaciones\sistema de votaciones\bin\Debug\sistema de votaciones.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\sistema de votaciones\sistema de votaciones\bin\Debug\sistema de votaciones.exe
+c:\users\hp\documents\visual studio 2012\Projects\sistema de votaciones\sistema de votaciones\bin\Debug\sistema de votaciones.pdb
+c:\users\hp\documents\visual studio 2012\Projects\sistema de votaciones\sistema de votaciones\obj\Debug\sistema de votaciones.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\sistema de votaciones\sistema de votaciones\obj\Debug\sistema de votaciones.exe
+c:\users\hp\documents\visual studio 2012\Projects\sistema de votaciones\sistema de votaciones\obj\Debug\sistema de votaciones.pdb
